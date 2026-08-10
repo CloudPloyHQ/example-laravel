@@ -33,7 +33,7 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 px-4 sm:px-6 relative z-10">
             <div class="mb-6 sm:mb-0">
                 <a href="/">
-                    <img src="https://ploy.cloud/logo.svg" alt="PloyCloud Logo" class="h-12 sm:h-16 w-auto transition-transform duration-300 hover:scale-110">
+                    <img src="https://cloudploy.com/logo.svg" alt="CloudPloy Logo" class="h-12 sm:h-16 w-auto transition-transform duration-300 hover:scale-110">
                 </a>
             </div>
 
