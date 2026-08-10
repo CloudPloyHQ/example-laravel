@@ -66,22 +66,22 @@
     <footer class="py-6 sm:py-8 px-4 sm:px-6">
         <div class="max-w-6xl mx-auto text-center space-y-3 sm:space-y-4">
             <div class="flex justify-center">
-                <a href="https://ploy.cloud"
+                <a href="https://cloudploy.com"
                    target="_blank"
                    rel="noopener noreferrer"
                    class="logo-container inline-block">
-                    <img src="https://ploy.cloud/logo.svg"
-                         alt="PloyCloud Logo"
+                    <img src="https://cloudploy.com/logo.svg"
+                         alt="CloudPloy Logo"
                          class="h-10 sm:h-12 w-auto transition-transform duration-300 hover:scale-110">
                 </a>
             </div>
 
             <div class="powered-by-text">
-                <a href="https://ploy.cloud"
+                <a href="https://cloudploy.com"
                    target="_blank"
                    rel="noopener noreferrer"
                    class="inline-block text-xs sm:text-sm md:text-base font-medium text-[#706f6c] dark:text-[#A1A09A] hover:text-[#1b1b18] dark:hover:text-[#EDEDEC] transition-colors">
-                    Powered by <span class="animated-text font-semibold">PloyCloud</span>
+                    Powered by <span class="animated-text font-semibold">CloudPloy</span>
                 </a>
             </div>
         </div>
